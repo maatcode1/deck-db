@@ -9,10 +9,6 @@
       "email": "maatcode@gmail.com"
     }
   ],
-  "require": {
-    "php": "^7.4 || ~8.0.0 || ~8.1.0",
-    "laminas/laminas-db":"^2.15.0"
-  },
   "autoload": {
     "psr-4": {
       "Deck\\Database\\": "src"
